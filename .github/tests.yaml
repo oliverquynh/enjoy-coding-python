@@ -17,7 +17,7 @@ jobs:
       - name: Clone test cases
         uses: actions/clone@v2
         with:
-          url: https://github.com/seriquynh/enjoy-coding.git
+          url: https://github.com/oliverquynh/enjoy-coding.git
 
       - name: Execute tests
         uses: actions/setup-python@v4
