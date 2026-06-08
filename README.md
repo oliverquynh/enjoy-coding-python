@@ -1,5 +1,3 @@
 # Enjoy Coding Python
 
-This repository contains solutions in Python3.
-
-For more details, please visit [here](https://github.com/seriquynh/enjoy-coding)!
+This repository contains solutions in Python3 for problems at [enjoy-coding](https://github.com/oliverquynh/enjoy-coding)
